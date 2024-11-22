@@ -50,6 +50,8 @@ const App = () => {
 
   return (
     <div className="movie-list">
+          <div>Movies </div>
+
       <div className="controls">
         {/* Category Dropdown */}
         <select
